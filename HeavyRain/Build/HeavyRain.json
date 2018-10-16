@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HeavyRain.data.unityweb",
+"asmCodeUrl": "HeavyRain.asm.code.unityweb",
+"asmMemoryUrl": "HeavyRain.asm.memory.unityweb",
+"asmFrameworkUrl": "HeavyRain.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
